@@ -12,10 +12,10 @@ Arduino and Arduino IDE
 </h3>
 <p>
     Blinker is a simple program that blinks an LED on and off. It is a good starting point for beginners to learn how to use the Arduino IDE and the Arduino programming language. The program is written in C++ and is compiled by the Arduino IDE. The Arduino IDE is a free software that can be downloaded from the Arduino website. The Arduino IDE is available for Windows, Mac OS X, and Linux. </p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LEDs.jpg/1200px-LEDs.jpg" height = 300px width = 300px>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LEDs.jpg/1200px-LEDs.jpg" height = 300px width = 400px>
 <p>fig:  LED lights</p>
 <img src = "https://content.instructables.com/ORIG/FBM/0TXC/JSAOS6I6/FBM0TXCJSAOS6I6.jpg?auto=webp" height = 300px width = 300px>
-p>fig:  LED lights configuration</p>
+<p>fig:  LED lights configuration</p>
 
 <h3>
     Ultrasonic Sensor
@@ -27,12 +27,20 @@ p>fig:  LED lights configuration</p>
 
 <img src = "https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/HC-SR04-Ultrasonic-Distance-Sensor-Pinout.png" height = 300px width = 300px>
 <p>fig:  Ultrasonic sensor </p>
-<img src = "https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Arduino-Wiring-Fritzing-Normal-Mode-Connections-with-HC-SR04-Ultrasonic-Sensor.png" height = 300px width = 300px>
+<img src = "https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Arduino-Wiring-Fritzing-Normal-Mode-Connections-with-HC-SR04-Ultrasonic-Sensor.png" height = 300px width = 400px>
 <p>fig:  Ultrasonic sensor configuration</p>
 
 <h3>Fan Speed</h3>
 <p>
     In this part I used a cooling fan of a CPU and an ultrasonic sensor. The fan is connected to the Arduino board and the ultrasonic sensor is connected to the Arduino board. When the distance measured by an ultrasonic sensor is less than 5 cm the fan speed increases to maximum and when the distance measured by an ultrasonic sensor is greater than 5 cm and less than or equal to 10cm then the fan speed is medium with the blinking of a LED </p>
 </p>
+<img src = "https://static-01.daraz.com.np/p/b5ccdb209ee5320cc33098aed81e16c3.jpg" height = 300px width = 300px>
+<p>fig:  Cooling fan of a CPU</p>
+
 <h3>RGB led</h3>
 <p>In this part i learnt about RGB LED and control its colors. RGB LED is advance version of a LED that can be glowed in any colour according to the need with the help of RGB color codes. </p>
+
+<img src = "https://robiz.net/image/cache/data/lcdtft/led/rgbled/rgbledanot_01-500x500.jpg" height = 300px width = 300px>
+<p>fig:  RGB LED</p>
+<img src = "https://hacksterio.s3.amazonaws.com/uploads/attachments/458851/rgb-led-common-anode_jixCVz25dQ.png" height = 300px width = 300px>
+<p>fig:  RGB LED configuration</p>
