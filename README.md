@@ -11,7 +11,7 @@ Arduino and Arduino IDE
 </h3>
 <p>
     Blinker is a simple program that blinks an LED on and off. It is a good starting point for beginners to learn how to use the Arduino IDE and the Arduino programming language. The program is written in C++ and is compiled by the Arduino IDE. The Arduino IDE is a free software that can be downloaded from the Arduino website. The Arduino IDE is available for Windows, Mac OS X, and Linux. </p>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LEDs.jpg/1200px-LEDs.jpg">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LEDs.jpg/1200px-LEDs.jpg" height = 300px width = 300px>
 <p>fig:  LED lights</p>
 
 <h3>
