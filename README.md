@@ -42,5 +42,5 @@ Arduino and Arduino IDE
 
 <img src = "https://robiz.net/image/cache/data/lcdtft/led/rgbled/rgbledanot_01-500x500.jpg" height = 300px width = 300px>
 <p>fig:  RGB LED</p>
-<img src = "https://makeabilitylab.github.io/physcomp/arduino/assets/images/ArduinoUno_RgbLEDCommonAnode_WiringDiagram.png" height = 300px width = 500px>
+<img src = "https://makeabilitylab.github.io/physcomp/arduino/assets/images/ArduinoUno_RgbLEDCommonAnode_WiringDiagram.png" height = 300px width = 600px>
 <p>fig:  RGB LED configuration</p>
