@@ -4,6 +4,7 @@
 Arduino and Arduino IDE
 </h2>
 <p>Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing. </p>
+<img src="https://docs.arduino.cc/static/d0c28c5bd0894792476c6052dea5fa63/29114/board-anatomy.png">
 
 <h3>
     Blinker
@@ -24,4 +25,4 @@ Arduino and Arduino IDE
     In this part I used a cooling fan of a CPU and an ultrasonic sensor. The fan is connected to the Arduino board and the ultrasonic sensor is connected to the Arduino board. When the distance measured by an ultrasonic sensor is less than 5 cm the fan speed increases to maximum and when the distance measured by an ultrasonic sensor is greater than 5 cm and less than or equal to 10cm then the fan speed is medium with the blinking of a LED </p>
 </p>
 <h3>RGB led</h3>
-<p>In this part i learnt about RGB LED and control its colors.</p>
+<p>In this part i learnt about RGB LED and control its colors. RGB LED is advance version of a LED that can be glowed in any colour according to the need with the help of RGB color codes. </p>
